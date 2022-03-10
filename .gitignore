@@ -1,0 +1,20 @@
+# Custom
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# data_home directory. Data is fetched on a per run basis.
+data/
+
+# Dask worker space
+dask-worker-space/
+
+# Visual Studio options directory
+.vscode/
+
+# Python tools
+__pycache__/
+utils/__pycache__/
+**/*.pyc
+

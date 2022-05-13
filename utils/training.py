@@ -1,14 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import random
 import torch
 from torch.utils.data import DataLoader
 from tqdm import tqdm
 
-SEED = 29
-random.seed(SEED)
-torch.manual_seed(SEED)
-np.random.seed(SEED)
 
 plt.rcParams.update({'axes.grid': True, 'axes.edgecolor': '#ffffff', 'axes.facecolor': '#fafafa',
                      'axes.labelcolor': '#3f3f3f', 'figure.facecolor': '#ffffff', 'font.size': 15,

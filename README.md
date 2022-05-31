@@ -6,7 +6,7 @@
 
 Supervised learning analysis on the [20NewsGroup](https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups) dataset, which contains 20000 messages taken from 20 newsgroups.
 
-There is an english and a spanish version, both in Jupyter notebook format.
+There is an English and a Spanish version, both in Jupyter notebook format.
 
 ## Requirements
 
